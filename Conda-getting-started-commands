@@ -1,0 +1,2 @@
+conda env create --file ANCC_RWE_Env.yml
+conda activate anccrwe
